@@ -11,3 +11,5 @@ class Car:
         
 bmw = Car("BMW", 1200)
 bmw.print_car()
+
+#this should be saved in git as well as git github
